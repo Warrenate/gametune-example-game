@@ -798,7 +798,7 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   luminIcon:
     m_Name: 
@@ -819,10 +819,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 3
-  cloudProjectId: 
+  cloudProjectId: c31cd76f-9c96-4573-9fe9-d45d89f16f17
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: EndlessRunning_Unity
+  organizationId: lxg-as-publisher
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
